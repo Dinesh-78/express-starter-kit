@@ -1,0 +1,77 @@
+2025-08-18 00:12:28:1228 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:12:28:1228 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:12:48:1248 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:12:48:1248 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:13:21:1321 [32minfo[39m: [32mHome route accessed[39m
+2025-08-18 00:13:21:1321 [35mhttp[39m: [35mGET / 200 17 - 6.661 ms[39m
+[35m[39m
+2025-08-18 00:13:21:1321 [35mhttp[39m: [35mGET /favicon.ico 404 150 - 3.800 ms[39m
+[35m[39m
+2025-08-18 00:13:50:1350 [32minfo[39m: [32mSIGINT received, shutting down gracefully[39m
+2025-08-18 00:16:15:1615 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:17:01:171 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:17:07:177 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:17:10:1710 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:17:14:1714 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:17:19:1719 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:17:23:1723 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:17:26:1726 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:17:30:1730 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:17:37:1737 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:17:56:1756 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:18:01:181 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:18:12:1812 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:18:21:1821 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:18:43:1843 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:18:50:1850 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:19:44:1944 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:19:54:1954 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:20:02:202 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:20:10:2010 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:20:21:2021 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:20:28:2028 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:20:37:2037 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:21:08:218 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:21:13:2113 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:21:24:2124 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:21:38:2138 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:21:42:2142 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:23:21:2321 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:25:33:2533 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:25:40:2540 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:26:03:263 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:26:28:2628 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:26:47:2647 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:27:07:277 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:28:10:2810 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:29:06:296 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:30:02:302 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:30:11:3011 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:31:17:3117 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:31:27:3127 [35mhttp[39m: [35mGET /api-docs 301 158 - 8.566 ms[39m
+[35m[39m
+2025-08-18 00:31:27:3127 [35mhttp[39m: [35mGET /api-docs/ 200 3106 - 12.336 ms[39m
+[35m[39m
+2025-08-18 00:31:27:3127 [35mhttp[39m: [35mGET /api-docs/swagger-ui-init.js 200 2238 - 0.259 ms[39m
+[35m[39m
+2025-08-18 00:31:28:3128 [35mhttp[39m: [35mGET /api-docs/swagger-ui.css 200 155212 - 110.235 ms[39m
+[35m[39m
+2025-08-18 00:31:28:3128 [35mhttp[39m: [35mGET /api-docs/swagger-ui-standalone-preset.js 200 229223 - 271.488 ms[39m
+[35m[39m
+2025-08-18 00:31:28:3128 [35mhttp[39m: [35mGET /api-docs/swagger-ui-bundle.js 200 1485855 - 59.858 ms[39m
+[35m[39m
+2025-08-18 00:31:28:3128 [35mhttp[39m: [35mGET /api-docs/favicon-32x32.png 200 628 - 3.340 ms[39m
+[35m[39m
+2025-08-18 00:33:54:3354 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:34:05:345 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:34:28:3428 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:34:40:3440 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:34:49:3449 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:34:53:3453 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:35:10:3510 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:45:25:4525 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-18 00:45:31:4531 [35mhttp[39m: [35mGET /explore 404 146 - 4.989 ms[39m
+[35m[39m
+2025-08-18 00:45:34:4534 [32minfo[39m: [32mHome route accessed[39m
+2025-08-18 00:45:34:4534 [35mhttp[39m: [35mGET / 304 - - 7.521 ms[39m
+[35m[39m
