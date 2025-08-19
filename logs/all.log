@@ -77,3 +77,17 @@
 [35m[39m
 2025-08-20 00:09:18:918 [32minfo[39m: [32mServer started successfully on port 3000[39m
 2025-08-20 00:09:24:924 [32minfo[39m: [32mSIGINT received, shutting down gracefully[39m
+2025-08-20 00:30:55:3055 [32minfo[39m: [32mServer started successfully on port 6000[39m
+2025-08-20 00:31:00:310 [32minfo[39m: [32mSIGINT received, shutting down gracefully[39m
+2025-08-20 00:31:05:315 [32minfo[39m: [32mServer started successfully on port 6000[39m
+2025-08-20 00:31:14:3114 [32minfo[39m: [32mSIGINT received, shutting down gracefully[39m
+2025-08-20 00:31:34:3134 [32minfo[39m: [32mServer started successfully on port 6000[39m
+2025-08-20 00:32:11:3211 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-20 00:32:15:3215 [32minfo[39m: [32mSIGINT received, shutting down gracefully[39m
+2025-08-20 00:32:25:3225 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-20 00:32:34:3234 [32minfo[39m: [32mHome route accessed[39m
+2025-08-20 00:32:34:3234 [35mhttp[39m: [35mGET / 200 17 - 4.224 ms[39m
+[35m[39m
+2025-08-20 00:32:34:3234 [35mhttp[39m: [35mGET /favicon.ico 404 150 - 1.602 ms[39m
+[35m[39m
+2025-08-20 00:32:38:3238 [32minfo[39m: [32mSIGINT received, shutting down gracefully[39m
