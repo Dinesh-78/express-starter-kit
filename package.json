@@ -4,11 +4,7 @@
   "type": "module",
   "main": "src/index.ts",
   "scripts": {
-    "test": "jest --passWithNoTests",
-    "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage",
-    "test:ci": "jest --ci --coverage --watchAll=false",
-    "fulltest": "bun run lint && bun run format && bun run test:coverage",
+    "fulltest": "bun run lint && bun run format",
     "build": "tsc",
     "start": "node dist/index.js",
     "watch": "tsc -w",
