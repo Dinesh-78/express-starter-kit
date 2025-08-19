@@ -12,8 +12,7 @@
     "dev": "concurrently \"npm run watch\" \"npm run server\"",
     "lint": "eslint . --ext .ts,.tsx --fix",
     "format": "prettier --write 'src/**/*.{ts,tsx,js,jsx,json,css,md}'",
-    "prepare": "husky",
-    "commit": "git-cz"
+    "prepare": "husky"
   },
   "lint-staged": {
     "src/**/*.{ts,tsx,js,jsx}": [
