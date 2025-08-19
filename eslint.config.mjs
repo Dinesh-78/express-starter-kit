@@ -14,11 +14,11 @@ export default tseslint.config(
       },
     },
     rules: {
-      'no-console': 'warn',
-      'no-unused-vars': 'warn',
-      'no-undef': 'warn',
-      'no-unused-expressions': 'warn',
-      'no-unused-labels': 'warn',
+      'no-console': 'error',
+      'no-unused-vars': 'error',
+      'no-undef': 'error',
+      'no-unused-expressions': 'error',
+      'no-unused-labels': 'error',
     },
   },
 );
