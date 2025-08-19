@@ -75,3 +75,5 @@
 2025-08-18 00:45:34:4534 [32minfo[39m: [32mHome route accessed[39m
 2025-08-18 00:45:34:4534 [35mhttp[39m: [35mGET / 304 - - 7.521 ms[39m
 [35m[39m
+2025-08-20 00:09:18:918 [32minfo[39m: [32mServer started successfully on port 3000[39m
+2025-08-20 00:09:24:924 [32minfo[39m: [32mSIGINT received, shutting down gracefully[39m
