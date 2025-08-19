@@ -26,7 +26,7 @@ app.use(morganMiddleware);
 
 // Swagger docs
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(specs));
-
+console.log(specs);
 // Routes
 app.get('/', (req: Request, res: Response) => {
   Logger.info('Home route accessed', {

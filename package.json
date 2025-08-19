@@ -4,13 +4,13 @@
   "type": "module",
   "main": "src/index.ts",
   "scripts": {
-    "fulltest": "bun run lint && bun run format",
+    "fulltest": "npm run lint && npm run format",
     "build": "tsc",
     "start": "node dist/index.js",
     "watch": "tsc -w",
     "server": "nodemon",
-    "dev": "concurrently \"bun run watch\" \"bun run server\"",
-    "lint": "eslint 'src/**/*.{ts,tsx}' --fix",
+    "dev": "concurrently \"npm run watch\" \"npm run server\"",
+    "lint": "eslint . --ext .ts,.tsx --fix",
     "format": "prettier --write 'src/**/*.{ts,tsx,js,jsx,json,css,md}'",
     "prepare": "husky",
     "commit": "git-cz"
@@ -77,8 +77,11 @@
     "eslint": "^9.33.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.4",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.3.0",
     "husky": "^9.1.7",
     "jest": "^29.7.0",
+    "jiti": "^2.5.1",
     "lint-staged": "^16.1.5",
     "prettier": "^3.6.2",
     "prisma": "^6.14.0",
@@ -86,6 +89,7 @@
     "ts-jest": "^29.1.2",
     "ts-node-dev": "^2.0.0",
     "tsx": "^4.20.4",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.40.0"
   }
 }

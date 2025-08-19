@@ -1,30 +1,24 @@
-import { defineConfig } from 'eslint/config';
-import parser from '@typescript-eslint/parser';
-import path from 'node:path';
-import { fileURLToPath } from 'node:url';
-import js from '@eslint/js';
-import { FlatCompat } from '@eslint/eslintrc';
+// @ts-check
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const compat = new FlatCompat({
-  baseDirectory: __dirname,
-  recommendedConfig: js.configs.recommended,
-  allConfig: js.configs.all,
-});
+import eslint from '@eslint/js';
+import tseslint from 'typescript-eslint';
 
-export default defineConfig([
+export default tseslint.config(
+  eslint.configs.recommended,
+  tseslint.configs.recommended,
   {
-    extends: compat.extends(
-      'eslint:recommended',
-      'plugin:@typescript-eslint/recommended',
-      'plugin:prettier/recommended',
-    ),
-
     languageOptions: {
-      parser: parser,
-      ecmaVersion: 2020,
-      sourceType: 'module',
+      globals: {
+        process: 'readonly',
+        console: 'readonly',
+      },
+    },
+    rules: {
+      'no-console': 'warn',
+      'no-unused-vars': 'warn',
+      'no-undef': 'warn',
+      'no-unused-expressions': 'warn',
+      'no-unused-labels': 'warn',
     },
   },
-]);
+);
