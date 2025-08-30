@@ -4,9 +4,10 @@ const options = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'Express Starter Kit API',
+      title: 'StartHub Backend API',
       version: '1.0.0',
-      description: 'A RESTful API built with Express and TypeScript',
+      description:
+        'A RESTful API built with Express and TypeScript for StartHub',
       contact: {
         name: 'API Support',
         email: 'support@example.com',
@@ -14,7 +15,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:6000',
+        url: 'http://localhost:3000',
         description: 'Development server',
       },
       {
@@ -37,7 +38,7 @@ const options = {
       },
     ],
   },
-  apis: ['./src/routes/*.ts', './src/index.ts'], // Path to the API docs
+  apis: ['./src/routes/*.ts', './src/**/*.ts'], // Path to the API docs - more inclusive pattern
 };
 
 export const specs = swaggerJsdoc(options);
